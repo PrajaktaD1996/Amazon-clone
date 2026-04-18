@@ -5,6 +5,7 @@ Static Amazon homepage clone built using HTML and CSS
 
 A static frontend clone of Amazon’s homepage built using HTML and CSS.  
 This project focuses on improving UI layout structuring and mastering core frontend fundamentals.
+![Amazon Clone Screenshot](amazon-screenshort.png)
 
 ---
 
